@@ -6,18 +6,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'Manuale', serif;
+    font-family: 'Manuale','Verdana','tahoma', serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed','Arial','Helvetica', sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed','Arial','Helvetica', sans-serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }

@@ -8,18 +8,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald','Arial','Helvetica', sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather','Verdana','tahoma', serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather','Verdana','tahoma', serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
